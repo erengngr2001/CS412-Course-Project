@@ -34,5 +34,48 @@ For this part, we have tried several models. Each has its advantages and disadva
 
 **RESULTS**
 
-Some of the above mentioned results can be found here.
+Some of the above mentioned results can be found here. 
+
+**Here are the list of our features:**
+
 ![image](https://github.com/erengngr2001/CS412-Course-Project/assets/76160067/34fba476-960a-4213-9bab-e5c9d545ae9c)
+
+**The graph for our decision tree:**
+
+![image](https://github.com/erengngr2001/CS412-Course-Project/assets/76160067/0d86f5d4-c31d-4ec9-ab70-b9a548411b59)
+
+**Decision tree plots after implementing bagging:**
+
+![image](https://github.com/erengngr2001/CS412-Course-Project/assets/76160067/dc468a37-1673-4c1d-b54f-4c4fca32d61e)
+
+**Tree structure for our random forest model:**
+
+![image](https://github.com/erengngr2001/CS412-Course-Project/assets/76160067/e82a41c8-a4fb-46f5-95d9-31eb99d1d74b)
+
+**3D Graph representation for observing positive-negative effects on prompts (axes meanings => 0: user_prompts, 6: positive_prompts, 10: negative_prompts):**
+
+![image](https://github.com/erengngr2001/CS412-Course-Project/assets/76160067/3dcd66a3-1a59-4bcd-9847-ce39fbaa85cb)
+
+**Random Forest model enhanced with bagging:**
+
+![image](https://github.com/erengngr2001/CS412-Course-Project/assets/76160067/3dad7cad-06b2-47d9-9e20-22ccaa314e62)
+
+**Random Forest vs Random Forest + Bagging:**
+
+![image](https://github.com/erengngr2001/CS412-Course-Project/assets/76160067/583535f0-0981-4b10-87f0-64515b8c13f2)
+
+**SVM - Actual vs Predicted data:**
+
+![image](https://github.com/erengngr2001/CS412-Course-Project/assets/76160067/2899040b-a299-4ced-ad0f-445977552efa)
+
+**SVM - Residuals:**
+
+![image](https://github.com/erengngr2001/CS412-Course-Project/assets/76160067/32ea1058-4204-4dab-bc7a-2bf839ab973a)
+
+**3D Observation on some features for SVM**
+
+![image](https://github.com/erengngr2001/CS412-Course-Project/assets/76160067/7e75b6a4-3533-4073-80b4-82c500567f90)
+
+**10 Epoch training results for neural network:**
+
+![image](https://github.com/erengngr2001/CS412-Course-Project/assets/76160067/2a34d569-5db2-441b-8d0e-6a14b2000897)
