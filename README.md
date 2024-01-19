@@ -79,3 +79,20 @@ Some of the above mentioned results can be found here.
 **10 Epoch training results for neural network:**
 
 ![image](https://github.com/erengngr2001/CS412-Course-Project/assets/76160067/2a34d569-5db2-441b-8d0e-6a14b2000897)
+
+
+
+
+**TEAM CONTRIBUTIONS**
+
+**EREN GÜNGÖR - 29465:**
+
+A
+
+**KAYRA BERK AKŞİT - 29007:**
+
+A
+
+**ERDEM AYDIN - ???:**
+
+A
