@@ -35,3 +35,4 @@ For this part, we have tried several models. Each has its advantages and disadva
 **RESULTS**
 
 Some of the above mentioned results can be found here.
+![image](https://github.com/erengngr2001/CS412-Course-Project/assets/76160067/34fba476-960a-4213-9bab-e5c9d545ae9c)
