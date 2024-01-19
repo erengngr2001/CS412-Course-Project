@@ -1,4 +1,5 @@
 **OVERVIEW**
+
 This project aims to predict student homework grades based on their ChatGPT conversations. All the chat histories belong to retrieved from GPT-3.5. You will find 2 scripts in this repository: cs412_project_mainfile.ipynb, and hw_score_predict_data_augment.ipynb. The first one is the main file you should use. The latter is used earlier in this project in order to examine the effect of data augmentation. It is recommended to check it out and try new ways yourself.
 
 **METHODOLOGY**
@@ -32,4 +33,5 @@ For this part, we have tried several models. Each has its advantages and disadva
        Although we predicted that the dataset size is too small for building an NN model, we still wanted to try and see the result. However, the results were beyond terrible. This is by far the worst model we have built. We tried with a simple structure that has two layers, the first having relu activation and the second having linear activation. We compiled it with adamoptimizer and loss function is based upon MSE score. We tried 10 epochs with batch size 16. However, even the first epoch results in a terribly high loss value (loss: 19625019392.0000 - val_loss: 42865127424.0000). Therefore, although we tried another NN models with different parameters, we did not do a detailed analysis on it.
 
 **RESULTS**
+
 Some of the above mentioned results can be found here.
