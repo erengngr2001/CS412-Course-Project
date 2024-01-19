@@ -87,12 +87,32 @@ Some of the above mentioned results can be found here.
 
 **EREN GÜNGÖR - 29465:**
 
-A
+Enhanced preprocessing function by adding stemming. Reasoning is that comparing words with respect to their stems gives more accurate results. For example, "go" and "goes" mean the same thing. However, the model treats them as completely different words if we do not imply stemming.
+
+Implemented random forest regressor. The reasoning is that the downsides of a decision tree could be solved by using multiple trees, i.e. a forest. Also plotted a tree chart for the forest, and exported it as a pdf, and plotted the 3D graph for observing positive-negative effects of prompts.
+
+Implemented bagging upon random forest regressor. The reasoning is bagging could be used for preventing overfitting.  Also plotted graphs for actual vs predicted values for both train set and test set. Added an additional graph for comparing Random Forest model and RF + Bagging model.
+
+Implemented SVM. Plotted graphs for comparing predictions and actual values, and showing the residual line. Also plotted a 3D graph for observing feature correlations and residuals.
+
+Implemented several neural networks. Two of them can be found in the jupyter script.
+
+
 
 **KAYRA BERK AKŞİT - 29007:**
 
-A
+Implemented sentiment analysis. The goal of sentiment analysis is to understand the subjective information present in the text and classify it as positive, negative, or neutral. Reasoning here is that if a user is not satisfied with the answers, they might express negative emotions  in prompts, or if GPT provides constant satisfactory responses, users might start responding more positively.
+
+Calculated prompt similarity as a new feature. Reasoning here is that if the user asked a similar question again and again that might indicate that the user is not satisfied with the answers provided from GPT.
+
+Removed outliers.
+
+Implemented bagging upon decision tree regressor in order to prevent overfitting. Also plotted graphs for comparing actual vs predicted values for both test set and train set.
+
+Implemented preprocessing function.
 
 **ERDEM AYDIN - ???:**
 
-A
+Modified the given HTML parser so that all the valuable information are gathered in a single dictionary object.
+
+Calculated jaccard similarity between student prompts and the prompts of students who got 100 from the homework.
